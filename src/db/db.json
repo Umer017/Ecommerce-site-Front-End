@@ -1,0 +1,113 @@
+{
+    "categories": [
+        {
+            "id": "1",
+            "title": "Fridges"
+        },
+        {
+            "id": "2",
+            "title": "Kettles"
+        },
+        {
+            "id": "3",
+            "title": "Televisions"
+        }
+    ],
+    "products": [
+        {
+            "id": "1",
+            "catid": "1",
+            "title": "Wipro superstar 260l",
+            "ProductCode": "6000",
+            "image": "Wiproref.jpg",
+            "price": 40000,
+            "sku": "8789706",
+            "description": " chillls ap sdas \n\n asad sjb<b> sn flkadslk fl</b>,iuhsiofaoo asbk jasf0",
+            "specs": {
+                "demension": "787 x 56453 ",
+                "capacity": "309 liters"
+            },
+            "features": [
+                "eafqwfew af sdzz gsdf ",
+                "A sf q fad a sfasssss"
+            ],
+            "stock": 5
+        },
+        {
+            "id": "2",
+            "catid": "1",
+            "title": "Samsung champion 256l",
+            "ProductCode": "6001",
+            "image": "Samsungref.jpg",
+            "price": 50000,
+            "sku": "8789706",
+            "description": " chillls ap sdas \n\n asad sjb sn flkadslk fl,iuhsiofaoo asbk jasf0",
+            "specs": {
+                "demension": "787 x 56453 ",
+                "capacity": "309 liters"
+            },
+            "features": [
+                "eafqwfew af sdzz gsdf ",
+                "A sf q fad a sfasssss"
+            ],
+            "stock": 5
+        },
+        {
+            "id": "3",
+            "catid": "3",
+            "title": "Mi 108 cm (43 inches) 5A Series Full HD",
+            "ProductCode": "6003",
+            "image": "MiTV.jpg",
+            "price": 10000,
+            "sku": "8789706",
+            "description": " chillls ap sdas \n\n asad sjb sn flkadslk fl,iuhsiofaoo asbk jasf0",
+            "specs": {
+                "demension": "787 x 56453 ",
+                "capacity": "309 liters"
+            },
+            "features": [
+                "eafqwfew af sdzz gsdf ",
+                "A sf q fad a sfasssss"
+            ],
+            "stock": 5
+        },
+        {
+            "id": "4",
+            "catid": "3",
+            "title": "Intex 98 cm (40 inches) HD Ready Smart",
+            "ProductCode": "6004",
+            "image": "IntexTV.jpg",
+            "price": 11000,
+            "sku": "8789706",
+            "description": "chillls ap sdas \n\n asad sjb sn flkadslk fl,iuhsiofaoo asbk jasf0",
+            "specs": {
+                "demension": "787 x 56453 ",
+                "capacity": "309 liters"
+            },
+            "features": [
+                "eafqwfew af sdzz gsdf ",
+                "A sf q fad a sfasssss"
+            ],
+            "stock": 5
+        },
+        {
+            "id": "5",
+            "catid": "3",
+            "title": "Acer 139 cm (55 inches) I Series 4K",
+            "ProductCode": "6005",
+            "image": "AcerTV.jpg",
+            "price": 30000,
+            "sku": "8789706",
+            "description": "chillls ap sdas \n\n asad sjb sn flkadslk fl,iuhsiofaoo asbk jasf0",
+            "specs": {
+                "demension": "787 x 56453 ",
+                "capacity": "309 liters"
+            },
+            "features": [
+                "eafqwfew af sdzz gsdf ",
+                "A sf q fad a sfasssss"
+            ],
+            "stock": 5
+        }
+    ]
+}
